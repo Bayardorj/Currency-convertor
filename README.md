@@ -28,7 +28,8 @@ Try it live:
 - HTML5  
 - CSS3  
 - PHP  
-- Git & GitHub Pages  
+- Git & GitHub Pages
+- Aeonfree   
 
 ---
 
